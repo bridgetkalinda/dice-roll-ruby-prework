@@ -8,4 +8,3 @@ def roll
   upper_limit = 6
   Random.new.rand(lower_limit..upper_limit)
 end
-
